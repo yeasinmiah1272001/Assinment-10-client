@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "1",
+    "img": "https://i.ibb.co/wKGL43x/Whats-App-Image-2021-08-18-at-12-01-14-PM-1-1629288252584-1641105440421.jpg",
+    "price" : "21000$",
+    "title": "Toyota",
+    "description": "Discover Toyota - a hallmark of quality, durability, and innovation. Toyota cars offer unmatched reliability, style, and advanced features. Drive with peace of mind and redefine your journey with a Toyota. Elevate your driving experience; choose Toyota today"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "2",
+    "img": "https://i.ibb.co/nzdy5rZ/ggggg.jpg",
+    "price" : "29000$",
+    "title": "Ford",
+    "description": " Ford Brand Car- your key to unlocking a world of automotive excellence and beyond. Ford, a name synonymous with innovation, performance, and American heritage, has crafted this exclusive card to elevate your Ford experience in every aspect."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "3",
+    "img": "https://i.ibb.co/XtRWydq/bm1.jpg",
+    "price" : "300000$",
+    "title": "BMW",
+    "description": "Elevate your driving experience with BMW. Precision engineering, luxury, and cutting-edge technology define every BMW vehicle. Embrace performance and sophistication on the road. Make a statement; choose BMW today."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "4",
+    "img": "https://i.ibb.co/wh09tNZ/mb5.webp",
+    "price" : "400000$",
+    "title": "Mercedes-Benz",
+    "description": "Experience luxury redefined with Mercedes-Benz. Impeccable craftsmanship, innovation, and elegance are hallmarks of every Mercedes-Benz vehicle. Command the road with unparalleled style and performance. Elevate your journey; choose Mercedes-Benz today."
+  },
+    {
+
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "5",
+    "img": "https://i.ibb.co/sqHVmxJ/te2.jpg",
+    "price" : "35000$",
+    "title": "Tesla",
+    "description": "Unleash the future of driving with Tesla. Cutting-edge electric technology, performance, and sustainability seamlessly merge in every Tesla vehicle. Redefine your commute and be part of the electric revolution. Elevate your ride; choose Tesla today."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "6",
+    "img": "https://i.ibb.co/4jzLPSN/front-left-side-47.webp",
+    "price" : "32000$",
+    "title": "Honda",
+    "description": "Elevate your drive with Honda. Renowned for reliability, innovation, and efficiency, Honda cars offer a perfect blend of style and performance. Experience the road with confidence and style. Choose Honda for a remarkable journey."
+  }
+]
